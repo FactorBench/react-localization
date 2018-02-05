@@ -21,7 +21,7 @@
     "react",
     "react-component"
   ],
-  "main": "./lib/LocalizedStrings.js",
+  "main": "./src/LocalizedStrings.js",
   "types": "./lib/LocalizedStrings.d.ts",
   "author": "Stefano Falda <stefano.falda@gmail.com> (http://www.babisoft.com)",
   "license": "MIT",
